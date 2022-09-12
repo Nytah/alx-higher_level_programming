@@ -3,3 +3,4 @@
 * 1-last_digit.py: code to print the last digit of the number stored in the variable number
 * 2-print_alphabet.py: program that prints the ASCII alphabet, in lowercase, not followed by a new line
 * 3-print_alphabt.py: program that prints the ASCII alphabet excluding q and e, in lower case, not followed by a new line'
+* 4-print_hexa.py: program that prints all numbers from 0 to 98 in decimal and in hexadecimal
