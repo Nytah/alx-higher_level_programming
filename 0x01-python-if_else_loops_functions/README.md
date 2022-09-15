@@ -8,3 +8,4 @@
 * 6-print_comb3.py: program that prints all possible different combinations of two digits
 * 7-islower.py: function that checks for lowercase character
 * 9-print_last_digit.py: function that prints the last digit of a number
+* 10-add.py: function that adds two integers and returns the result
