@@ -19,4 +19,3 @@ if arg_len > 1:
         my_list.append(argv[i])
 
     save_to_json_file(my_list, filename)
-    
